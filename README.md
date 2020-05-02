@@ -36,7 +36,10 @@ Windows:
 `conda create --name drlnd python=3.6` 
 `conda activate drlnd`
 
-Install pytorch using conda:
+
+
+###### Install pytorch using conda:
+
 `conda install pytorch=0.4.0 -c pytorch`
 
 
@@ -49,7 +52,7 @@ Install pytorch using conda:
 
 
 
-###### `Create Ipython kernel`
+###### Create Ipython kernel
 
 `python -m ipykernel install --user --name drlnd --display-name "drlnd"`
 
